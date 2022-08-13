@@ -1,0 +1,17 @@
+{
+    "name": "ag/db-wrapper",
+    "description": "php wrapper for mysql database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ag\\DbWrapper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "itrax group round 10"
+        }
+    ],
+    "require": {}
+}

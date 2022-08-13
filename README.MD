@@ -7,7 +7,7 @@ dbwrapper is a small php wrapper for mysql databases.
 install once with composer:
 
 ```
-composer require ag/db-wrapper
+composer require asmaa_gamal/db-wrapper
 ```
 
 then add this to your project:
